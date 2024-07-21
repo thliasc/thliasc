@@ -7,7 +7,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" height="auto"/>
 </div>
 ### Game Development:
-<div>
+<div class="imgs-display" style="display:row">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="auto"/>
 </div>
 ### Web Development
@@ -16,7 +16,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="auto" />
 </div>
 ### Database:
-<div>
+<div class="imgs-display" style="display:row">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="auto" />
 </div>
 </br>
