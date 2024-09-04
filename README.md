@@ -1,5 +1,5 @@
-<p>Up on Melancholy Hill</p>
-<p>There's a plastic tree</p>
+<p class="teste">Up on Melancholy Hill</p>
+<p class="teste">There's a plastic tree</p>
 <p>Are you here with me?</p>
 <p>Just looking out on the day</p>
 <p>Of another dream</p>
@@ -24,7 +24,7 @@
 <p>When you're close to me</p>
 
 <style>
-  p {
+  .teste {
   line-height: 5px;
   }
 </style>
