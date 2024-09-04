@@ -25,7 +25,7 @@
 
 <style>
   p {
-  line-height: 10px;
+  line-height: 5px;
   }
 </style>
 <div class="imgs-display" style="display:row">
