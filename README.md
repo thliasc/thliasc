@@ -1,5 +1,5 @@
-<p class="teste">Up on Melancholy Hill</p>
-<p class="teste">There's a plastic tree</p>
+<p style=line-height:5px;>Up on Melancholy Hill</p>
+<p style=line-height:5px;>There's a plastic tree</p>
 <p>Are you here with me?</p>
 <p>Just looking out on the day</p>
 <p>Of another dream</p>
@@ -23,10 +23,6 @@
 <p>When you're close to me</p>
 <p>When you're close to me</p>
 
-<style>
-  .teste {
-  line-height: 5px;
-  }
 </style>
 <div class="imgs-display" style="display:row">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="auto"/>
