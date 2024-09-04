@@ -1,5 +1,5 @@
-<p style="line-height:1px;">Up on Melancholy Hill</p>
-<p style="line-height:5px;">There's a plastic tree</p>
+<div style="line-height:1px;">Up on Melancholy Hill</div>
+<div style="line-height:5px;">There's a plastic tree</div>
 <p style="line-height:5px;">Are you here with me?</p>
 <p style="line-height:5px;">Just looking out on the day</p>
 <p style="line-height:5px;">Of another dream</p>
