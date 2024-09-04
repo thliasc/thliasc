@@ -1,8 +1,8 @@
-<p style=line-height:5px;>Up on Melancholy Hill</p>
-<p style=line-height:5px;>There's a plastic tree</p>
-<p>Are you here with me?</p>
-<p>Just looking out on the day</p>
-<p>Of another dream</p>
+<p style="line-height:5px;">Up on Melancholy Hill</p>
+<p style="line-height:5px;">There's a plastic tree</p>
+<p style="line-height:5px;">Are you here with me?</p>
+<p style="line-height:5px;">Just looking out on the day</p>
+<p style="line-height:5px;">Of another dream</p>
 <p>Well you can't get what you want</p>
 <p>But you can get me</p>
 <p>So let's set out to sea, love</p>
@@ -22,7 +22,11 @@
 <p>When you're close to me</p>
 <p>When you're close to me</p>
 <p>When you're close to me</p>
-
+<style>
+  p {
+    line-height: 5px;
+  }
+</style>
 </style>
 <div class="imgs-display" style="display:row">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="auto"/>
