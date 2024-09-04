@@ -1,4 +1,4 @@
-<p style="line-height:5px;">Up on Melancholy Hill</p>
+<p style="line-height:1px;">Up on Melancholy Hill</p>
 <p style="line-height:5px;">There's a plastic tree</p>
 <p style="line-height:5px;">Are you here with me?</p>
 <p style="line-height:5px;">Just looking out on the day</p>
@@ -22,11 +22,6 @@
 <p>When you're close to me</p>
 <p>When you're close to me</p>
 <p>When you're close to me</p>
-<style>
-  p {
-    line-height: 1px;
-  }
-</style>
 </style>
 <div class="imgs-display" style="display:row">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="auto"/>
@@ -36,6 +31,11 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="auto" />
 </div>
 </br>
+<style>
+  p {
+    line-height: 1px;
+  }
+</style>
 
 ## Status:
 <div>
