@@ -1,27 +1,27 @@
-Up on Melancholy Hill
-There's a plastic tree
-Are you here with me?
-Just looking out on the day
-Of another dream
-Well you can't get what you want
-But you can get me
-So let's set out to sea, love
-'Cause you are my medicine
-When you're close to me
-When you're close to me
-So call in the submarines
-'Round the world we'll go
-Does anybody know, love
-If we're looking out on the day
-Of another dream?
-If you can't get what you want
-Then come with me
-Up on Melancholy Hill
-Sits a manatee
-Just looking out for the day
-When you're close to me
-When you're close to me
-When you're close to me
+<p>Up on Melancholy Hill</p>
+<p>There's a plastic tree</p>
+<p>Are you here with me?</p>
+<p>Just looking out on the day</p>
+<p>Of another dream</p>
+<p>Well you can't get what you want</p>
+<p>But you can get me</p>
+<p>So let's set out to sea, love</p>
+<p>'Cause you are my medicine</p>
+<p>When you're close to me</p>
+<p>When you're close to me</p>
+<p>So call in the submarines</p>
+<p>'Round the world we'll go</p>
+<p>Does anybody know, love</p>
+<p>If we're looking out on the day</p>
+<p>Of another dream?</p>
+<p>If you can't get what you want</p>
+<p>Then come with me</p>
+<p>Up on Melancholy Hill</p>
+<p>Sits a manatee</p>
+<p>Just looking out for the day</p>
+<p>When you're close to me</p>
+<p>When you're close to me</p>
+<p>When you're close to me</p>
 
 
 <div class="imgs-display" style="display:row">
