@@ -24,7 +24,7 @@
 <p>When you're close to me</p>
 <style>
   p {
-    line-height: 5px;
+    line-height: 1px;
   }
 </style>
 </style>
