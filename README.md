@@ -31,11 +31,6 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="auto" />
 </div>
 </br>
-<style>
-  p {
-    line-height: 1px;
-  }
-</style>
 
 ## Status:
 <div>
