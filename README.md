@@ -1,27 +1,33 @@
-<div style="line-height:1px;">Up on Melancholy Hill</div>
+<style>
+  div {
+    line-height:1px;
+  }
+</style>
+
+<div style="line-height:1px;">Up on Melancholy Hill
 <div style="line-height:5px;">There's a plastic tree</div>
-<p style="line-height:5px;">Are you here with me?</p>
-<p style="line-height:5px;">Just looking out on the day</p>
-<p style="line-height:5px;">Of another dream</p>
-<p>Well you can't get what you want</p>
-<p>But you can get me</p>
-<p>So let's set out to sea, love</p>
-<p>'Cause you are my medicine</p>
-<p>When you're close to me</p>
-<p>When you're close to me</p>
-<p>So call in the submarines</p>
-<p>'Round the world we'll go</p>
-<p>Does anybody know, love</p>
-<p>If we're looking out on the day</p>
-<p>Of another dream?</p>
-<p>If you can't get what you want</p>
-<p>Then come with me</p>
-<p>Up on Melancholy Hill</p>
-<p>Sits a manatee</p>
-<p>Just looking out for the day</p>
-<p>When you're close to me</p>
-<p>When you're close to me</p>
-<p>When you're close to me</p>
+<div style="line-height:1px;">Are you here with me?</div>
+<div style="line-height:1px;">Just looking out on the day</div>
+<div style="line-height:1px;">Of another dream</div>
+<div>Well you can't get what you want</div>
+<div>But you can get me</div>
+<div>So let's set out to sea, love</div>
+<div>'Cause you are my medicine</div>
+<div>When you're close to me</div>
+<div>When you're close to me</div>
+<div>So call in the submarines</div>
+<div>'Round the world we'll go</div>
+<div>Does anybody know, love</div>
+<div>If we're looking out on the day</div>
+<div>Of another dream?</div>
+<div>If you can't get what you want</div>
+<div>Then come with me</div>
+<div>Up on Melancholy Hill</div>
+<div>Sits a manatee</div>
+<div>Just looking out for the day</div>
+<div>When you're close to me</div>
+<div>When you're close to me</div>
+<div>When you're close to me</div>
 </style>
 <div class="imgs-display" style="display:row">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="auto"/>
